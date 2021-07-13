@@ -1,0 +1,11 @@
+.mgi{
+    height: 500px;
+    width: 500px;
+}
+body{
+    background: crimson;
+}
+.container{
+background-color: blueviolet;
+color: chartreuse;
+}
